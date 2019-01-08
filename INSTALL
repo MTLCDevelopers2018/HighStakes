@@ -1,0 +1,9 @@
+Building HighStakes
+
+See doc/readme-qt.rst for instructions on building HighStakes QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of HighStakes.
+
+See doc/build-*.txt for instructions on building HighStakesd,
+the intended-for-services, no-graphical-interface, reference
+implementation of HighStakes.
